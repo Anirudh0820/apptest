@@ -31,10 +31,10 @@ span{
   padding: 0 5px;
   cursor: pointer;
 }
-
+/* 
 span:hover{
   background-color: rgba(249, 243, 243, 0.185);
-}
+} */
 
 .btn{
 padding:10 20px ;
