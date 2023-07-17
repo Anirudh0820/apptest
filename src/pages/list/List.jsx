@@ -21,10 +21,10 @@ const List = () => {
       <div className="listContainer">
         <div className="listWrapper">
           <div className="listSearch">
-            <h1 className="lsTitle">Search</h1>
+            {/* <h1 className="lsTitle">Search</h1> */}
             <div className="lsItem">
-              <label>Destination</label>
-              <input placeholder={destination} type="text" />
+              {/* <label>Destination</label> */}
+              {/* <input placeholder={destination} type="text" /> */}
             </div>
             <div className="lsItem">
               <label>Check-in Date</label>
@@ -92,10 +92,10 @@ const List = () => {
             <SearchItem />
             <SearchItem />
             <SearchItem />
+            {/* <SearchItem /> */}
+            {/* <SearchItem />
             <SearchItem />
-            <SearchItem />
-            <SearchItem />
-            <SearchItem />
+            <SearchItem /> */}
           </div>
         </div>
       </div>

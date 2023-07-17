@@ -1,0 +1,64 @@
+[
+    {
+        "siTitle":"Hotel New Taj Plaza",
+        "siDistance":"14.8km from center",
+        "siSubtitle":"Double Room",
+        "siFeatures":"1 double bed",
+        "siCancelOp":"Free Cancellation",
+        "siCancelOpSubtitle":"No prepayment needed",
+        "siRating":"8.4",
+        "siPrice":"18000",
+        "siTaxOp":"+2100 taxes and chrges",
+        "siCheckButton":"See availability"
+
+    },
+    {
+        "siTitle":"Hotel olive",
+        "siDistance":"5km from center",
+        "siSubtitle":"Deluxe king Room",
+        "siFeatures":"1 extra-large double bed",
+        "siCancelOp":"Free Cancellation",
+        "siCancelOpSubtitle":"No prepayment needed",
+        "siRating":"7.9",
+        "siPrice":"75066",
+        "siTaxOp":"+2000 taxes and charges",
+        "siCheckButton":"See availability"
+    },
+    {
+        "siTitle":"Hotel Sheraton ",
+        "siDistance":"7km from center",
+        "siSubtitle":"Superior double Room",
+        "siFeatures":"1 double bed",
+        "siCancelOp":"Free Cancellation",
+        "siCancelOpSubtitle":"No prepayment needed- pay at the property",
+        "siRating":"9.3",
+        "siPrice":"80000",
+        "siTaxOp":"+4000 taxs and charges",
+        "siCheckButton":"See availability"
+    },
+    {
+        "siTitle":"Hotel Leela",
+        "siDistance":"3km from center",
+        "siSubtitle":"Double Room",
+        "siFeatures":"1 extra-large double bed",
+        "siCancelOp":"Free Cancellation",
+        "siCancelOpSubtitle":"No prepayment needed -pay at the property",
+        "siRating":"7.3",
+        "siPrice":"40000",
+        "siTaxOp":"+4000 taxes and charges",
+        "siCheckButton":"See availability"
+    },
+    {
+        "siTitle":"Hotel Lalit",
+        "siDistance":"10km from center",
+        "siSubtitle":"Standard Studio",
+        "siFeatures":"2 beds",
+        "siCancelOp":"Free Cancellation",
+        "siCancelOpSubtitle":"No prepayment needed ",
+        "siRating":"8.8",
+        "siPrice":"65000",
+        "siTaxOp":"+5500 taxes and charges",
+        "siCheckButton":"See availability"
+    }
+
+]

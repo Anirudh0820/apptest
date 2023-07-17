@@ -28,7 +28,7 @@ const Header = ({ type }) => {
   ]);
   const [openOptions, setOpenOptions] = useState(false);
   const [options, setOptions] = useState({
-    adult: 1,
+    adult: 2,
     children: 0,
     room: 1,
   });
@@ -83,7 +83,7 @@ const Header = ({ type }) => {
             Find your next stay
             </h1>
             <p className="headerDesc">
-            Search deals on hotels, homes, and much more...
+            Search low prices on hotels, homes and much more...
             </p>
             {/* <button className="headerBtn">Sign in / Register</button> */}
             <div className="headerSearch">
@@ -93,7 +93,7 @@ const Header = ({ type }) => {
                   type="text"
                   placeholder="Where are you going?"
                   className="headerSearchInput"
-                  onChange={(e) => setDestination(e.target.value)}
+                  // onChange={(e) => setDestination(e.target.value)}
                 />
               </div>
               <div className="headerSearchItem">
